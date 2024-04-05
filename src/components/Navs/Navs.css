@@ -1,0 +1,48 @@
+nav{
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    border-radius: 0px;
+    
+    
+
+
+
+
+}
+#basic-navbar-nav {
+    margin-right: 60px;
+}
+nav a{
+
+color: #ab3550 !important ;
+font-size: 15 px;
+font-weight: bold;
+text-transform: uppercase;
+letter-spacing: 1px;
+
+
+}
+nav img {
+    max-width: 70%;
+    height: 90%;
+    margin-left: 70px;
+
+}
+
+nav #lastnav {
+ border: 2px solid #ab3550 ;
+ background-color: #ab3550;
+ box-sizing: border-box;
+ color: #fff !important ;
+
+
+
+}
+nav #lastnav:hover{
+    
+    background-color: transparent;
+    color: #ab3550 !important ;
+    transition: ease-in-out;
+   }
